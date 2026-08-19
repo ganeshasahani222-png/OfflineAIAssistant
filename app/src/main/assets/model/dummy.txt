@@ -1,1 +1,1 @@
-
+Vosk offline model directory placeholder
